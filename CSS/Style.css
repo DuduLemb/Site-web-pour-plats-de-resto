@@ -1,0 +1,58 @@
+/*
+Auteur : Lembe
+Objet : style général du site
+date : 13.05.2024
+*/
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 90px;
+    height: 80px;
+}
+.lien{
+    font-family: cursive;
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 350px;
+}
+.navbar ul li{
+    margin-right: 10px;
+}
+.navbar ul li .lien{
+    display : block;
+    padding: 10px;
+    text-decoration: none;
+    color: azure;
+}
+.navbar li .lien:hover{
+    background-color: darkgoldenrod;
+}
+#listicones li{
+    display:inline;
+    
+}
+#listicones{
+    padding: 10px 20px;
+    margin-left: 40px;
+    
+    
+}
+
+.conta{
+    background-color: black;
+    color: darkgoldenrod;
+    font-family: cursive;
+
+}
+.icones{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    
+}

@@ -1,0 +1,42 @@
+/*
+    Date:16/05/2024
+    style de la page a propos
+    Auteur: LEMBE DUHANE
+*/
+.hei{
+    height: 445px;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../IMAGES/Backg4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.we{
+    height: 220px;
+}
+.wk{
+    border: 1px solid #000;
+    padding: 10px;
+    background-color: white;
+    width: 400px;
+    margin-top: 20px; 
+}
+.wi{
+    height: 180px;
+}
+.ws{
+    width: 310px;
+    height: 180px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.ty{
+    font-size: 70px;
+    color: darkgoldenrod;
+    font-family: 'titre';
+    margin-top: 70px;
+}
+@font-face {
+    font-family: 'titre';
+    src: url("../Fonts/comic.ttf") format('truetype');
+}

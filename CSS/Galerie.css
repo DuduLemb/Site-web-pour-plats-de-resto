@@ -1,0 +1,91 @@
+/*
+    Date:16/05/2024
+    style de la page galerie
+    Auteur: LEMBE DUHANE
+*/
+.heu{
+    height: 445px;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../IMAGES/Backg3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.ba{
+    height: 720px;
+}
+.be{
+    height: 100px;
+    background-color: black;
+    color: darkgoldenrod;
+    font-family: cursive;
+}
+.a{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+.b{
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.c{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+.d{
+    height: 200px;
+    width: 200px;
+}
+.e{
+    height: 200px;
+    width: 200px;
+}
+.f{
+    height: 200px;
+    width: 200px;
+}
+.g{
+    height: 200px;
+    width: 200px;
+}
+.h{
+    height: 200px;
+    width: 200px;
+}
+.i{
+    height: 200px;
+    width: 200px;
+}
+.j{
+    height: 200px;
+    width: 200px;
+}
+.k{
+    height: 200px;
+    width: 200px;
+}
+.l{
+    height: 200px;
+    width: 200px;
+}
+.ok{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+img{
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.ty{
+    font-size: 70px;
+    color: darkgoldenrod;
+    font-family: 'titre';
+    margin-top: 70px;
+}
+@font-face {
+    font-family: 'titre';
+    src: url("../Fonts/comic.ttf") format('truetype');
+}

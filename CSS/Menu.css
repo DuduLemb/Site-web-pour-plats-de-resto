@@ -1,0 +1,66 @@
+/*
+    Date:16/05/2024
+    style de la page menu
+    Auteur: LEMBE DUHANE
+*/
+.hei{
+    height: 445px;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../IMAGES/Backg2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.ty{
+    font-size: 70px;
+    color: darkgoldenrod;
+    font-family: 'titre';
+    margin-top: 70px;
+}
+.he{
+    height: 800px;
+}
+.hj{
+    height: 200px;
+    background-color: black;
+}
+img{
+    height: 200px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.tm{
+    border: 0px solid white;
+    color: white;
+    margin-left: 40px;
+}
+.a{
+    width: 200px;
+}
+.tf{
+    border: 0px solid black;
+    color: black;
+    margin-left: 40px;
+}
+.b{
+    width: 200px;
+}
+.hm{
+    background-color: black;
+}
+.tn{
+    border: 0px solid white;
+    color: white;
+    margin-left: 40px;
+}
+.c{
+    width: 200px;
+}
+.tq{
+    border: 0px solid black;
+    color: black;
+    margin-left: 40px;
+}
+@font-face {
+    font-family: 'titre';
+    src: url("../Fonts/comic.ttf") format('truetype');
+}
